@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>668959179482-umpaqu1f9u5t3n2h6d2uld55j33ij58b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.668959179482-umpaqu1f9u5t3n2h6d2uld55j33ij58b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyALmNiulVmQGHiLq33etw-nowf4ma-a1E4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>668959179482</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sha-since1999.chatapp</string>
+	<key>PROJECT_ID</key>
+	<string>myfirstioschatapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>myfirstioschatapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:668959179482:ios:44209a0ebca022e4d8dbe3</string>
+	<key>DATABASE_URL</key>
+	<string>https://myfirstioschatapp.firebaseio.com</string>
+</dict>
+</plist>
